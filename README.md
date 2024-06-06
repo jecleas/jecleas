@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey! Its Jezza 👋 
 
+**I'm Jeremy, I build and break stuff**
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with kdb+/Q
+- ⚡ Fun fact: 3x Marathon finisher!
 <!--
 **jecleas/jecleas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
