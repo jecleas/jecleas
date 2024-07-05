@@ -1,7 +1,7 @@
 ## Hey! Its Jezza 👋 
 
 **I'm Jeremy, I build and break stuff! Passionate about Seinfeld & financial markets (FX!)**
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning OCR/Image recognition
 - 🤔 I’m looking for help with kdb+/Q
 - ⚡ Fun fact: 3x Marathon finisher!
 <!--
